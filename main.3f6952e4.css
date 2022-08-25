@@ -12,6 +12,7 @@
   font-family: Roboto mono;
   color: black;
   font-weight:bold;
+  background-color: rgb(191, 46, 46);
 }
 
 .resume-button:hover{
@@ -35,11 +36,23 @@ margin-top: 20px;
   font-size: 16px;
 }
 
-p{
+.project-txt{
   font-weight: bold;
 }
 
+.work{
+  background-color: rgb(191, 46, 46) !important;
+}
 
+.card-container{
+  background-color: rgb(191, 46, 46) !important;
+  opacity: .7;
+  border-width: 5px;
+  border: #000;
+}
+.img-responsive{
+  background-color: rgb(191, 46, 46) !important;
+}
 
 
 
